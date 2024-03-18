@@ -1,8 +1,4 @@
-# Build your own RAG and run it locally on your laptop: ColBERT + DSPy + Streamlit
-
-Tutorial for Generative AI beginners: let’s build a very simple RAG (Retrieval Augmented Generation) system locally, step-by-step.
-
-Medium post: https://towardsdatascience.com/rag-on-your-laptop-colbert-dspy-streamlit-c206ea92188f
+# Build your own RAG and run it locally using ColBERT + DSPy + Streamlit
 
 ## Environment setup
 

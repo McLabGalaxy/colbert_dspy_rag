@@ -33,3 +33,13 @@ python colbert_server.py &  # It could take some seconds
 ```bash
 streamlit run chatbot.py 
 ```
+
+## export environment
+conda env export | grep -v "^prefix: " > environment.yml
+
+## import environment
+conda env create -f environment.yml
+
+# or
+#conda env create -f environment.yml -p /home/user/anaconda3/envs/env_name
+
